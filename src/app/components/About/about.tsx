@@ -37,16 +37,35 @@ I am particularly interested in software development and data analytics for indu
                         </div>
                     </div>
                 </div>
-                <div className="" id="skills-content">
+                <div className="mb-10" id="skills-content">
                     <hr className="h-1 my-5 w-[10%] bg-dark-blue border-0"/>
                     <p className="text-5xl font-bold text-dark-blue mb-2">Skills</p>
                     <div>
                         <div className="" id="tech-stacks">
                             <p className="text-lg text-black">I am experienced in...</p>
-                            <div className="flex">
+                            <div className="flex gap-4 mt-3">
                                 <Image src="/icons/python.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/react.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/redux.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/next.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/ts.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/js.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/mui.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/tableau.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/git.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
                             </div>
-
+                            <p className="text-lg text-black mt-5">I have some experiences in...</p>
+                            <div className="flex gap-4 mt-3">
+                                <Image src="/icons/python.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/react.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/redux.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/next.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/ts.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/js.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/mui.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/tableau.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                                <Image src="/icons/git.png" alt="" width={50} height={50} className="block hover:drop-shadow-2xl hover:bg-gray-400"></Image>
+                            </div>
                         </div>
                     </div>
                 </div>
